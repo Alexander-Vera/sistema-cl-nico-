@@ -1,1 +1,1 @@
-# Sistema-de-historial-cl-nico-y-citas-odontol-gicas.
+# Sistema-de-historial-clínico-y-citas-odontologicas.
